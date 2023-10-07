@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TkNhiZbI9S+gv6eFckys5sUsYwh+NFPjlGQbSFjz+Gw=",
+  "Source": "Workflow.API",
+  "BasePath": "_content/Workflow.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
